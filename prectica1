@@ -34,7 +34,7 @@ namespace ConsoleApp3
 
             for (int z = 0; z <= 9; z++) ;
             {
-                if (dato[z] = buscar) ;
+                if (dato[z] = buscar)
             }
      
 
